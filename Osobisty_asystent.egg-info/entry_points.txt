@@ -1,2 +1,0 @@
-[console_scripts]
-personal+assistant = address_book.main:main
